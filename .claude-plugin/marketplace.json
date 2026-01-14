@@ -1,0 +1,21 @@
+{
+    "name": "Matt's-plugins",
+    "owner": {
+        "name": "Matt",
+        "email": "matteo.petrani@gmail.com"
+    },
+    "metadata": {
+        "description": "A collection of plugins created by Matt.",
+        "version": "1.0.0",
+        "license": "MIT"
+    },
+    "plugins": [
+        {
+            "name": "Market-Research-and-Idea-validation",
+            "source": "./plugins/market-research-idea-validation",
+            "description": "A plugin for conducting market research and validating business ideas.",
+            "version": "1.0.0",
+            "license": "MIT"
+        }
+    ]
+}
