@@ -1,0 +1,9 @@
+{
+    "name": "Market-Research-and-Idea-validation",
+    "description": "A plugin for conducting market research and validating business ideas.",
+    "version": "1.0.0",
+    "author": {
+        "name": "Matt",
+        "email": "matteo.petrani@gmail.com"
+    }
+}
