@@ -16,6 +16,13 @@
             "description": "A plugin for conducting market research and validating business ideas.",
             "version": "1.0.0",
             "license": "MIT"
+        },
+        {
+            "name": "CRO-Machine",
+            "source": "./plugins/croMachine",
+            "description": "A CRO workflow plugin for hypothesis validation and ABTasty variant generation.",
+            "version": "1.0.0",
+            "license": "MIT"
         }
     ]
 }

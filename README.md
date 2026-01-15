@@ -15,6 +15,13 @@ A plugin for conducting market research and validating business ideas.
 - **Version**: 1.0.0
 - **License**: MIT
 
+### CRO Machine
+A CRO workflow plugin for hypothesis validation and ABTasty variant generation.
+
+- **Location**: `./plugins/croMachine`
+- **Version**: 1.0.0
+- **License**: MIT
+
 ## Structure
 
 - `.claude-plugin/` - Marketplace configuration
