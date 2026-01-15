@@ -5,5 +5,14 @@
     "author": {
         "name": "Matt",
         "email": "matteo.petrani@gmail.com"
-    }
+    },
+    "skills": "./skills/",
+    "commands": [
+        "./commands/research.md",
+        "./commands/synthesize.md"
+    ],
+    "homepage": "https://github.com/matteopetrani/claudePlugins",
+    "repository": "https://github.com/matteopetrani/claudePlugins",
+    "license": "MIT",
+    "keywords": ["market-research", "business-validation", "competitor-analysis", "idea-validation", "market-opportunity"]
 }

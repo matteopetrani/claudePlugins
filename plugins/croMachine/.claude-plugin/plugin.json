@@ -5,5 +5,11 @@
     "author": {
         "name": "Matt",
         "email": "matteo.petrani@gmail.com"
-    }
+    },
+    "skills": "./skills/",
+    "commands": ["./commands/create-test.md"],
+    "homepage": "https://github.com/matteopetrani/claudePlugins",
+    "repository": "https://github.com/matteopetrani/claudePlugins",
+    "license": "MIT",
+    "keywords": ["cro", "ab-testing", "abtasty", "conversion-optimization", "hypothesis-validation"]
 }
