@@ -1,3 +1,14 @@
+---
+name: research
+description: Execute targeted research workflows for your market research project.
+private: false
+tags: ["market-research", "business-validation", "competitor-analysis"]
+---
+---
+description: Run structured market research subcommands and write findings to research files.
+argument-hint: competitor <url> | hidden-competitors | market | community | assumptions
+allowed-tools: [Read, Glob, Edit, Skill]
+---
 # Research Command
 
 Execute targeted research workflows for your market research project using specialized research skills.

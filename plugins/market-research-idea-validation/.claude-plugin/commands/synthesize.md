@@ -1,3 +1,11 @@
+---
+name: synthesize
+description: Aggregate research findings into an actionable executive summary.
+argument-hint: [detailed]
+allowed-tools: [Read, Glob, Edit, Skill]
+private: false
+tags: ["market-research", "business-validation", "synthesis"]
+---
 # Synthesize Command
 
 Aggregate research findings into actionable executive summary with viability assessment and MVP recommendations.
