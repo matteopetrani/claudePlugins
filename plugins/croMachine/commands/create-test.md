@@ -1,14 +1,10 @@
 ---
 name: create-test
 description: Creates a new test directory with a specs template.
-private: false
-tags: ["cro", "ab-testing", "testing"]
----
----
-description: Create a new CRO test folder with a specs template.
 argument-hint: [test-name]
 allowed-tools: [Bash, AskUserQuestion]
 ---
+
 # Create Test
 
 This command creates a new test directory with a specs template.

@@ -4,11 +4,6 @@
         "name": "Matt",
         "email": "matteo.petrani@gmail.com"
     },
-    "metadata": {
-        "description": "A collection of plugins created by Matt.",
-        "version": "1.0.0",
-        "license": "MIT"
-    },
     "plugins": [
         {
             "name": "Market-Research-and-Idea-validation",
