@@ -1,0 +1,15 @@
+{
+    "name": "CRO-Machine",
+    "description": "A CRO workflow plugin for hypothesis validation and ABTasty variant generation.",
+    "version": "1.0.0",
+    "author": {
+        "name": "Matt",
+        "email": "matteo.petrani@gmail.com"
+    },
+    "agents": "./agents/",
+    "commands": ["./commands/create-test.md"],
+    "homepage": "https://github.com/matteopetrani/claudePlugins",
+    "repository": "https://github.com/matteopetrani/claudePlugins",
+    "license": "MIT",
+    "keywords": ["cro", "ab-testing", "abtasty", "conversion-optimization", "hypothesis-validation"]
+}

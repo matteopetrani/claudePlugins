@@ -1,5 +1,5 @@
 {
-    "name": "Matt's-plugins",
+    "name": "Matt",
     "owner": {
         "name": "Matt",
         "email": "matteo.petrani@gmail.com"
@@ -16,6 +16,13 @@
             "name": "CRO-Machine",
             "source": "./plugins/croMachine",
             "description": "A CRO workflow plugin for hypothesis validation and ABTasty variant generation.",
+            "version": "1.0.0",
+            "license": "MIT"
+        },
+        {
+            "name": "CRO-Machine-Test",
+            "source": "./plugins/test",
+            "description": "A CRO workflow plugin with agents for hypothesis validation and ABTasty variant generation.",
             "version": "1.0.0",
             "license": "MIT"
         }
